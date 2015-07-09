@@ -11,7 +11,6 @@ mkinstalldirs
 aclocal.m4
 libtool
 ltconfig
-ltmain.sh
 autom4te.cache
 autoscan.log
 uuid.pc
