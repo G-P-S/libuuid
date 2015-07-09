@@ -5,7 +5,6 @@ stamp-h.in
 confdefs.h
 configure.lineno
 configure.scan
-depcomp
 compile
 mkinstalldirs
 aclocal.m4
