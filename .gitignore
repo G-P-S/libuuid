@@ -9,9 +9,7 @@ configure.lineno
 configure.scan
 depcomp
 compile
-missing
 mkinstalldirs
-install-sh
 aclocal.m4
 libtool
 ltconfig
